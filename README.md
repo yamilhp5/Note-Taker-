@@ -17,7 +17,7 @@ to write, save and delete notes.
 3. "Click" on the save icon on the top right corner to save the note and "+" icon to add another note.
 4. To delete, "Click" the trash icon.
 
-The video walkthrough is here: 
+The video walkthrough is here: https://app.screencastify.com/v3/watch/VknChQ2I8mlcjOmXeRgw
 Repository link: https://github.com/yamilhp5/Note-Taker- 
 
 # Credits 
